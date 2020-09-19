@@ -5,5 +5,5 @@ export interface UserProps {
 }
 
 export interface HasId {
-	id: number;
+	id?: number;
 }
